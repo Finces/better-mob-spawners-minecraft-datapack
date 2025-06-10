@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#%#",
+    "#$#",
+    "#!#"
+  ],
+  "key": {
+    "#": "minecraft:iron_bars",
+    "$": "minecraft:fire_charge",
+    "!": "minecraft:soul_sand",
+    "%": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "minecraft:spawner",
+    "count": 1
+  }
+}
