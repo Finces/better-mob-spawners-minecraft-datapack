@@ -1,0 +1,7 @@
+{
+  "values": [
+    "spawner_improve_spawn_count:tick",
+    "spawner_improve_required_player_range:tick",
+    "spawner_improve_delay:tick"
+  ]
+}
