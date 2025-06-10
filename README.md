@@ -1,4 +1,4 @@
-# Better Mob Spawners datapack [for Minecraft 1.21+]
+# Better Mob Spawners datapack [for Minecraft 1.20+]
 
 ## Description
 
