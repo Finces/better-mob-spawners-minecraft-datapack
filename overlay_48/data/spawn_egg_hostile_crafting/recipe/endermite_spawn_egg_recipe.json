@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "$$$"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:ender_pearl"
+  },
+  "result": {
+    "id": "minecraft:endermite_spawn_egg",
+    "count": 1
+  }
+}

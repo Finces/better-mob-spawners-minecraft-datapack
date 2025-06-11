@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "$$$"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "minecraft:blaze_spawn_egg",
+    "count": 1
+  }
+}

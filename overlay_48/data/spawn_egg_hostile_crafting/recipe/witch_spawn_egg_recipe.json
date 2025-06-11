@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$&"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:glass_bottle",
+    "%": "minecraft:redstone",
+    "&": "minecraft:glowstone_dust"
+  },
+  "result": {
+    "id": "minecraft:witch_spawn_egg"
+  }
+}

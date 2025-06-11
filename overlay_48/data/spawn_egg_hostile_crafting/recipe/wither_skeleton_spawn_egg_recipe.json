@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "$%$"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:coal",
+    "%": "minecraft:wither_skeleton_skull"
+  },
+  "result": {
+    "id": "minecraft:wither_skeleton_spawn_egg",
+    "count": 1
+  }
+}

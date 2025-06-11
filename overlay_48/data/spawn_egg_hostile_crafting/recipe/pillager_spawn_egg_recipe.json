@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:crossbow",
+    "%": "minecraft:emerald"
+  },
+  "result": {
+    "id": "minecraft:pillager_spawn_egg"
+  }
+}

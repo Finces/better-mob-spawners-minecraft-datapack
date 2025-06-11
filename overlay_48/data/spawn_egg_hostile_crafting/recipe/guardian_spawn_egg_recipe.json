@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "$$$"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:prismarine_shard"
+  },
+  "result": {
+    "id": "minecraft:guardian_spawn_egg",
+    "count": 1
+  }
+}
