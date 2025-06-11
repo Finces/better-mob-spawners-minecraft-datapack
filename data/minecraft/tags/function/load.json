@@ -1,0 +1,7 @@
+{
+  "values": [
+    "spawn_egg_hostile_crafting:load",
+    "spawn_egg_neutral_crafting:load",
+    "spawn_egg_passive_crafting:load"
+  ]
+}
