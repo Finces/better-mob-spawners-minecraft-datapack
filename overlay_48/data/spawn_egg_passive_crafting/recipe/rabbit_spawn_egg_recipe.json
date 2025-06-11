@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:rabbit",
+    "%": "minecraft:rabbit_hide"
+  },
+  "result": {
+    "id": "minecraft:rabbit_spawn_egg"
+  }
+}
+

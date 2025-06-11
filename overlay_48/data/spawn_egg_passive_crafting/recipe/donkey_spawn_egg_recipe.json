@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:chest",
+    "%": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:donkey_spawn_egg"
+  }
+}

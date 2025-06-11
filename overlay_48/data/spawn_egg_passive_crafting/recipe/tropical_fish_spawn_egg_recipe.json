@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "@",
+    "#",
+    "$"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:tropical_fish_bucket"
+  },
+  "result": {
+    "id": "minecraft:tropical_fish_spawn_egg"
+  }
+}

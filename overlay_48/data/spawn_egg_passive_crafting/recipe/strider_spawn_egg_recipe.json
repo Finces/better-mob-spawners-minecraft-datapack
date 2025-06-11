@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:saddle",
+    "%": "minecraft:lava_bucket"
+  },
+  "result": {
+    "id": "minecraft:strider_spawn_egg"
+  }
+}

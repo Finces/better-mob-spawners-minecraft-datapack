@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$&"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:string"
+    },
+    "%": {
+      "item": "minecraft:salmon"
+    },
+    "&": {
+      "item": "minecraft:cod"
+    }
+  },
+  "result": {
+    "item": "minecraft:cat_spawn_egg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$&"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:bamboo",
+    "%": "minecraft:salmon",
+    "&": "minecraft:cod"
+  },
+  "result": {
+    "id": "minecraft:ocelot_spawn_egg"
+  }
+}

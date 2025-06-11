@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:emerald_block",
+    "%": "minecraft:emerald"
+  },
+  "result": {
+    "id": "minecraft:villager_spawn_egg"
+  }
+}

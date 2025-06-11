@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:tadpole_bucket",
+    "%": "minecraft:slime_ball"
+  },
+  "result": {
+    "id": "minecraft:frog_spawn_egg"
+  }
+}
+

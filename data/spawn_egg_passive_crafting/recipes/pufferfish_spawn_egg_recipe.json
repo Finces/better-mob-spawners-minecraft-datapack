@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "@",
+    "#",
+    "$"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:pufferfish_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:pufferfish_spawn_egg"
+  }
+}

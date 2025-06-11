@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:wheat"
+    },
+    "%": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:mule_spawn_egg"
+  }
+}

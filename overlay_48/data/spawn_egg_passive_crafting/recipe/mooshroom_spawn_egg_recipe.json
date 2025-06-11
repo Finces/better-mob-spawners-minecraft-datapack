@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$&"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:beef",
+    "%": "minecraft:red_mushroom",
+    "&": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:mooshroom_spawn_egg"
+  }
+}

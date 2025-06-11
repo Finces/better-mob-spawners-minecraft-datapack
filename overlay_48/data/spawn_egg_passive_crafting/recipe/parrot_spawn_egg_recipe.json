@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:jukebox",
+    "%": "minecraft:feather"
+  },
+  "result": {
+    "id": "minecraft:parrot_spawn_egg"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "@",
+    "#",
+    "$"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:tadpole_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:tadpole_spawn_egg"
+  }
+}
