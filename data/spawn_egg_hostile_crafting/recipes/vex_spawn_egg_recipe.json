@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:iron_sword"
+    },
+    "%": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "minecraft:vex_spawn_egg"
+  }
+}

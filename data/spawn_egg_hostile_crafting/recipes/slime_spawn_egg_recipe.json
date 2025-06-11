@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:slime_block"
+    },
+    "%": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_spawn_egg"
+  }
+}

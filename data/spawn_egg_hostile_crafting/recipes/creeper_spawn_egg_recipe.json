@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "$$$"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "minecraft:creeper_spawn_egg"
+  }
+}

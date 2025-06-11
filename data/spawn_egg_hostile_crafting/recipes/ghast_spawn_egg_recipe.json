@@ -1,22 +1,22 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "@",
-    "#",
-    "$"
+    " @ ",
+    " # ",
+    "$$$"
   ],
   "key": {
     "@": {
-      "item": "minecraft:skeleton_skull"
+      "item": "minecraft:diamond"
     },
     "#": {
       "item": "minecraft:egg"
     },
     "$": {
-      "item": "minecraft:bone"
+      "item": "minecraft:ghast_tear"
     }
   },
   "result": {
-    "item": "minecraft:skeleton_spawn_egg"
+    "item": "minecraft:ghast_spawn_egg"
   }
 }

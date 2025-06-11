@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:porkchop"
+    },
+    "%": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:hoglin_spawn_egg"
+  }
+}

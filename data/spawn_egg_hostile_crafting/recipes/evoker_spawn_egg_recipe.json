@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "%": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "minecraft:evoker_spawn_egg"
+  }
+}

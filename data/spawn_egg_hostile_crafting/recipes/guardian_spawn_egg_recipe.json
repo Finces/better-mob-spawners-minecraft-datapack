@@ -1,22 +1,22 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "@",
-    "#",
-    "$"
+    " @ ",
+    " # ",
+    "$$$"
   ],
   "key": {
     "@": {
-      "item": "minecraft:creeper_head"
+      "item": "minecraft:diamond"
     },
     "#": {
       "item": "minecraft:egg"
     },
     "$": {
-      "item": "minecraft:gunpowder"
+      "item": "minecraft:prismarine_shard"
     }
   },
   "result": {
-    "item": "minecraft:creeper_spawn_egg"
+    "item": "minecraft:guardian_spawn_egg"
   }
 }
