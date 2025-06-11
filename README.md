@@ -26,42 +26,20 @@ Recipe:
 
 ## Craftable mob spawn eggs
 
-### Zombie spawn egg recipe
+- 22 hostile mob spawn eggs
+- 15 neutral mob spawn eggs
+- 26 hostile mob spawn eggs
 
-- 1 zombie head
-- 1 egg
-- 1 rotten flesh
+Recipes for crafting spawn eggs are automatically unlocked.
 
-![alt text](readme_images/zombie_spawn_egg_recipe.png)
-
-### Wither skeleton spawn egg recipe
-
-- 1 wither skeleton skull
-- 1 egg
-- 1 coal
-
-![alt text](readme_images/wither_skeleton_spawn_egg_recipe.png)
-
-### Skeleton spawn egg recipe
-
-- 1 skeleton skull
-- 1 egg
-- 1 bone
-
-![alt text](readme_images/skeleton_spawn_egg_recipe.png)
-
-### Creeper spawn egg recipe
-
-- 1 creeper head
-- 1 egg
-- 1 gunpowder
-
-![alt text](readme_images/creeper_spawn_egg_recipe.png)
+![alt_text](readme_images/spawn_egg_crafting.png)
 
 ## Improving mob spawner delay
 
 Increases how often a mob spawner spawns a group of mobs. This improvement has 3 tiers.
 The default `minSpawnDelay` equals to 200, `maxSpawnDelay` equals to 800.
+
+![alt_text](readme_images/improve_delay.png)
 
 Improvement options:
 
@@ -74,6 +52,8 @@ Improvement options:
 Increases the required range of how close a player needs to be to a mob spawner.
 The default value is `16` blocks.
 
+![alt_text](readme_images/improve_required_player_range.png)
+
 Improvement options:
 
 - throw 1 iron ingot on top of a mob spawner to increase the distance to `24` blocks
@@ -84,6 +64,8 @@ Improvement options:
 
 Increases the max number of mobs in a spawned group.
 The default value is `4`.
+
+![alt_text](readme_images/improve_spawn_count.png)
 
 Improvement options:
 
