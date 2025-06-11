@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:string",
+    "%": "minecraft:spider_eye"
+  },
+  "result": {
+    "id": "minecraft:spider_spawn_egg"
+  }
+}

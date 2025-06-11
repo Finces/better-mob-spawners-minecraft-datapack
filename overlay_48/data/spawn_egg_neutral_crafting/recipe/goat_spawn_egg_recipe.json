@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:goat_horn",
+    "%": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:goat_spawn_egg"
+  }
+}

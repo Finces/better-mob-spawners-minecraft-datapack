@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:cod"
+    },
+    "%": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "minecraft:polar_bear_spawn_egg"
+  }
+}

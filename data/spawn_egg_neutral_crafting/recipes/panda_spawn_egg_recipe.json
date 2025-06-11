@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:bamboo"
+    },
+    "%": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:panda_spawn_egg"
+  }
+}

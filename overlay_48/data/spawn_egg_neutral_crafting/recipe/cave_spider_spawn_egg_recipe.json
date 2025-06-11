@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$&"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:string",
+    "%": "minecraft:spider_eye",
+    "&": "minecraft:poisonous_potato"
+  },
+  "result": {
+    "id": "minecraft:cave_spider_spawn_egg"
+  }
+}

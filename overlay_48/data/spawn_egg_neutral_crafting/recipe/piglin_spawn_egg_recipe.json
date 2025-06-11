@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:golden_sword",
+    "%": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "minecraft:piglin_spawn_egg"
+  }
+}

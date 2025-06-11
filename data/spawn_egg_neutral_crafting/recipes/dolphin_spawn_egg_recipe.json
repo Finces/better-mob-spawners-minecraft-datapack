@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "$": {
+      "item": "minecraft:lead"
+    },
+    "%": {
+      "item": "minecraft:cod"
+    }
+  },
+  "result": {
+    "item": "minecraft:dolphin_spawn_egg"
+  }
+}

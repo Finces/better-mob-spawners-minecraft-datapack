@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:water_bucket",
+    "%": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:llama_spawn_egg"
+  }
+}

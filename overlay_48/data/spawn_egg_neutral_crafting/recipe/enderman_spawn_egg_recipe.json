@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:ender_eye",
+    "%": "minecraft:ender_pearl"
+  },
+  "result": {
+    "id": "minecraft:enderman_spawn_egg"
+  }
+}

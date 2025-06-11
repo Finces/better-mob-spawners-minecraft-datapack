@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$%"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:honey_bottle",
+    "%": "minecraft:honeycomb"
+  },
+  "result": {
+    "id": "minecraft:bee_spawn_egg"
+  }
+}

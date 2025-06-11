@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " @ ",
+    " # ",
+    "%$&"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:egg",
+    "$": "minecraft:emerald",
+    "%": "minecraft:leather",
+    "&": "minecraft:feather"
+  },
+  "result": {
+    "id": "minecraft:fox_spawn_egg"
+  }
+}
